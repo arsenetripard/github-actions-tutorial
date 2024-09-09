@@ -1,6 +1,7 @@
 name: main-worklfow
 
-env: {}
+env:
+  IMAGE_REPOSITORY: padok-team/foobar
 
 on:
   push:
