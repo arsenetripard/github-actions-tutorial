@@ -1,7 +1,7 @@
 name: main-worklfow
 
 env:
-  IMAGE_REPOSITORY: padok-team/foobar
+  IMAGE_REPOSITORY: arsenet/foobar
 
 on:
   push:
